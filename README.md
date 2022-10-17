@@ -1,2 +1,2 @@
 # password-generator
-A python file that generates a random password
+A python program that generates a random password
